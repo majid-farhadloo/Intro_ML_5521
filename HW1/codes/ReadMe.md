@@ -76,7 +76,9 @@ error rates:
 0.2200
 mean: 0.2037
 std dev: 0.0817
-==============
+
+**************************************************************
+
 method: LinearSVC, dataset: Boston75
 name: LinearSVC
 dataset: Boston75
@@ -93,7 +95,9 @@ error rates:
 0.6000
 mean: 0.2805
 std dev: 0.2122
-==============
+
+**************************************************************
+
 method: LinearSVC, dataset: Digits
 name: LinearSVC
 dataset: Digits
@@ -110,7 +114,10 @@ error rates:
 0.0335
 mean: 0.0501
 std dev: 0.0170
-==============
+
+**************************************************************
+
+
 method: SVC, dataset: Boston50
 name: SVC
 dataset: Boston50
@@ -127,7 +134,10 @@ error rates:
 0.1600
 mean: 0.2313
 std dev: 0.0511
-==============
+
+**************************************************************
+
+
 method: SVC, dataset: Boston75
 name: SVC
 dataset: Boston75
@@ -144,7 +154,10 @@ error rates:
 0.2600
 mean: 0.2351
 std dev: 0.0608
-==============
+
+**************************************************************
+
+
 method: SVC, dataset: Digits
 name: SVC
 dataset: Digits
@@ -161,7 +174,10 @@ error rates:
 0.0168
 mean: 0.0089
 std dev: 0.0057
-==============
+
+**************************************************************
+
+
 method: LogisticRegression, dataset: Boston50
 name: LogisticRegression
 dataset: Boston50
@@ -178,7 +194,10 @@ error rates:
 0.1200
 mean: 0.1422
 std dev: 0.0370
-==============
+
+**************************************************************
+
+
 method: LogisticRegression, dataset: Boston75
 name: LogisticRegression
 dataset: Boston75
@@ -195,7 +214,10 @@ error rates:
 0.1400
 mean: 0.1009
 std dev: 0.0277
-==============
+
+**************************************************************
+
+
 method: LogisticRegression, dataset: Digits
 name: LogisticRegression
 dataset: Digits
