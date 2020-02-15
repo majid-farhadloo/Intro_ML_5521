@@ -61,6 +61,8 @@ Sample running for q3i.py:
 
 method: LinearSVC, dataset: Boston50
 
+```
+
 name: LinearSVC
 dataset: Boston50
 error rates:
@@ -500,4 +502,5 @@ error rates:
 mean: 0.0117
 std dev: 0.0076
 
+```
 
