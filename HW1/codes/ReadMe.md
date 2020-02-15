@@ -237,11 +237,12 @@ error rates:
 mean: 0.0317
 std dev: 0.0075
 
-
+```
 
 Sample running for the question 3ii:
 
 
+```
 python3 q3ii.py
 ==============
 method: LinearSVC, dataset: Boston50
@@ -397,8 +398,10 @@ error rates:
 mean: 0.0322
 std dev: 0.0058
 
-
+```
 Sample running for the question 4:
+
+```
 ==============
 method: LinearSVC, dataset: X1
 name: LinearSVC
